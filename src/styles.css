@@ -1,0 +1,13 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+body {
+  background-color: yellowgreen;
+  color: darkgoldenrod;
+}
+
+.button {
+  background-color: blueviolet;
+  color: black;
+}
